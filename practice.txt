@@ -1,0 +1,3 @@
+jayvardhan singh bundela
+git config --global user.name
+git commit saves our changes locally to our own computers repository whereas git push uploads those saved changes to a remote repository like github
